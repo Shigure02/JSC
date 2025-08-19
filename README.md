@@ -1,1 +1,14 @@
 # JSC
+
+
+Resources 
+https://www.w3schools.com/js/js_output.asp
+
+
+
+
+
+
+References 
+
+
